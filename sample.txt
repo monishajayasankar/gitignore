@@ -1,0 +1,1 @@
+this is example of gitignore the unwanted files and folders
